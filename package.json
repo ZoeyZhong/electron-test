@@ -1,0 +1,26 @@
+{
+  "name": "electron-test",
+  "version": "1.0.0",
+  "description": "this is a test",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoeyZhong/electron-test.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Zoey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoeyZhong/electron-test/issues"
+  },
+  "homepage": "https://github.com/ZoeyZhong/electron-test#readme",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  }
+}
